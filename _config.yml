@@ -6,16 +6,16 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "G-BWB39R6EXQ"
 
 # UI configs
-title: "Yong Cheng, Photography"
-subtitle: "Landscapes, people, and details."
+title: "Memorable moment"
+subtitle: "Live, people, and details."
 author: "Yong Cheng"
 header:
  title: "Photography"
- subtitle: "by Yong Cheng"
+ subtitle: "Now"
 footer:
  name: "Welcome"
  bio: "Peace"
- publicise: "All images Copyright Yong Cheng"
+ publicise: "Capture the moment"
 
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
