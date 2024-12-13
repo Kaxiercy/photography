@@ -1,27 +1,27 @@
 # Base configs
-baseurl: "https://lzhzlw.github.io/photography"
+baseurl: "https://Kaxiercy.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "G-BWB39R6EXQ"
 
 # UI configs
-title: "Zhenhai Liu, Photography"
+title: "Yong Cheng, Photography"
 subtitle: "Landscapes, people, and details."
-author: "Zhenhai Liu"
+author: "Yong Cheng"
 header:
  title: "Photography"
- subtitle: "by Zhenhai Liu"
+ subtitle: "by Yong Cheng"
 footer:
- name: "Capturing Moments, Creating Memories."
- bio: "Love life, love beauty."
- publicise: "All images Copyright Zhenhai Liu, 2017"
+ name: "Welcome"
+ bio: "Peace"
+ publicise: "All images Copyright Yong Cheng"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/lzhzlw"
-  instagram: "https://www.instagram.com/zhenhai_liu"
-  linkedin: "https://in.linkedin.com/in/lzhzlw"
-  github: "https://www.github.com/lzhzlw"
+  twitter: "https://www.twitter.com"
+  instagram: "https://www.instagram.com"
+  linkedin: "https://in.linkedin.com"
+  github: "https://www.github.com/Kaxiercy"
